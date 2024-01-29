@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
-Sitemap: https://chiragchrg.netlify.app/sitemap.xml
+Sitemap: https://robert-portfolio-9638.netlify.app/sitemap.xml
