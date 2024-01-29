@@ -15,7 +15,7 @@ Explore comprehensive weather insights and forecasts with Vortexa. Stay informed
 
 ### Live Demo
 
-Check out a live demo of VORTEXA at https://vortexa.netlify.app/.
+Check out a live demo of VORTEXA at https://robert-weather-9638.netlify.app/.
 
 ### Preview
 ![Portfolio Preview](public/Mockup_Preview.png)
