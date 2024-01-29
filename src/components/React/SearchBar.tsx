@@ -7,7 +7,7 @@ import { toast } from 'react-hot-toast';
 import { useIconCode } from '../../hooks/useIconCode';
 
 const SearchBar = () => {
-    const [query, setQuery] = useState<string>("newyork")
+    const [query, setQuery] = useState<string>("mangalore")
     const SearchRef = useRef<HTMLInputElement>(null)
 
     const HandleSearch = async (e?: FormEvent<HTMLFormElement>) => {

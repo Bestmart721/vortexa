@@ -10,7 +10,7 @@ const BASE_URL = `https://api.weatherapi.com/v1/forecast.json`
 
 export const FetchWeatherQuery = async (query: string) => {
     const URL_Params = new URLSearchParams({
-        key: API_KEY,
+        key: "5bd90c173d4a4ec7a9b13620242901",
         q: query,
         days: "3",
         aqi: "yes",
